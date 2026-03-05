@@ -92,7 +92,8 @@ Example:
 
 ### 1️⃣ Clone Repository
 
-git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git
+git clone https://github.com/aftabmujawar/springboot-user-management-api
+.git
 
 ---
 
